@@ -1,0 +1,5 @@
+LanguageIntent {myLanguage}
+LanguageIntent my language is {myLanguage}
+LanguageIntent i can speak {myLanguage}
+LanguageIntent i know how to speak {myLanguage}
+LanguageIntent {myLanguage} is my language

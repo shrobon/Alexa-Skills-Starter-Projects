@@ -1,0 +1,15 @@
+{
+  "name": "greetershrobon",
+  "version": "1.0.0",
+  "description": "a greeter app",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shrobon@ualberta.ca",
+  "license": "MIT"
+}

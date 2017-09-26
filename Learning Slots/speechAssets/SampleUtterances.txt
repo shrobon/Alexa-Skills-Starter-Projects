@@ -1,0 +1,3 @@
+NumberIntent {myNumber}
+NumberIntent my weight is {myNumber}
+NumberIntent say anything but say {myNumber} in your speech

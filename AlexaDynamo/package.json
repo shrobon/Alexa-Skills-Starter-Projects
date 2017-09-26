@@ -1,0 +1,14 @@
+{
+  "name": "dynamosessionsaving",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shrobon@ualberta.ca",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14"
+  }
+}
